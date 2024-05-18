@@ -1,7 +1,3 @@
-### Required documents
-
-
-
 # To Apply for Indonesian Passport
 
 - KTP

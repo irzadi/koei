@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Tiaramas Knowledge Base",
+  "tagline": "Connect People, Realize Dreams",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
@@ -42,9 +42,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Tiaramas Knowledge Base",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Tiaramas Logo",
         "src": "img/logo.svg"
       },
       "items": [
