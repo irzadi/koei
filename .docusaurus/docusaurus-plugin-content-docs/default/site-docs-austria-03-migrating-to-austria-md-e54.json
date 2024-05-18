@@ -1,0 +1,25 @@
+{
+  "id": "Austria/Migrating to Austria",
+  "title": "Migrating to Austria",
+  "description": "Many of the information below are provided by ABA, an Austrian government agency with portfolio in helping prospective migrant workers. Specifically this page is very useful.",
+  "source": "@site/docs/Austria/03 - Migrating to Austria.md",
+  "sourceDirName": "Austria",
+  "slug": "/Austria/Migrating to Austria",
+  "permalink": "/docs/Austria/Migrating to Austria",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Austria/03 - Migrating to Austria.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "List of Mangelberufe",
+    "permalink": "/docs/Austria/List of Mangelberufe"
+  },
+  "next": {
+    "title": "Austrian Agencies",
+    "permalink": "/docs/Austria/Austrian Agencies"
+  }
+}

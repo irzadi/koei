@@ -1,0 +1,25 @@
+{
+  "id": "Austria/Points Calculator",
+  "title": "Points Calculator",
+  "description": "The Red-White-Red – Card for  Skilled Workers in Shortage Occupations",
+  "source": "@site/docs/Austria/05 - Points Calculator.md",
+  "sourceDirName": "Austria",
+  "slug": "/Austria/Points Calculator",
+  "permalink": "/docs/Austria/Points Calculator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Austria/05 - Points Calculator.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Austrian Agencies",
+    "permalink": "/docs/Austria/Austrian Agencies"
+  },
+  "next": {
+    "title": "Documents Required",
+    "permalink": "/docs/Austria/Documents Required"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Austria/List of Mangelberufe",
+  "title": "List of Mangelberufe",
+  "description": "What is considered to be Mangelberufe i.e. \"professions in which shortage of labor exists\" certainly change according to the situation in the labor market.",
+  "source": "@site/docs/Austria/02 - List of Mangelberufe.md",
+  "sourceDirName": "Austria",
+  "slug": "/Austria/List of Mangelberufe",
+  "permalink": "/docs/Austria/List of Mangelberufe",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Austria/02 - List of Mangelberufe.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Legal Foundation",
+    "permalink": "/docs/Austria/Legal Foundation"
+  },
+  "next": {
+    "title": "Migrating to Austria",
+    "permalink": "/docs/Austria/Migrating to Austria"
+  }
+}

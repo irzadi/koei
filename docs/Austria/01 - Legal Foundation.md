@@ -15,13 +15,15 @@ The most relevant part is in article 12
 
 	In German language they are the so called **Fachkräfte in Mangelberufen**. Sectors that chronically short of workers are usually the 3D sectors: dirty, difficult or dangerous jobs. 
 	
-	In addition to being skilled worker in *Mangelberufen* the prospective migrant workers must  fulfill [additional criterias set by the Austrian governments](/Austria/05%20-%20Points%20Calculator.md) mostly related to Language and Age. Workers fulfilling those criterias and are being offered a job by an Austrian company are eligible to obtain a work visa.This visa is valid for up to two years and may later be extended or converted to more permanent form of permit 
+	In addition to being skilled worker in *Mangelberufen* the prospective migrant workers must  fulfill [additional criterias set by the Austrian governments](/Austria/05%20-%20Points%20Calculator.md) mostly related to Language and Age. Workers fulfilling those criterias and are being offered a job by an Austrian company are eligible to obtain a work visa. This visa is valid for up to two years and may later be extended or converted to more permanent form of permit 
+
+The following is the verbatim article straight from the bill, translate to English:
 
 `AusIBG §12a Skilled workers remedying skills shortages in specific occupations.`
 
 `Foreign nationals shall be admitted for employment as skilled workers in jobs suffering from labour shortages as defined in the ordinance for skilled workers (Fachkräfteverordnung, §13), if they`
 
-1. `hold the relevant occupational training credentials;`
+1. `hold the relevant occupational training credentials;
 2. `score the necessary minimum points for the criteria listed in Annex B;`
 3. `are paid for the intended job the minimum pay rate they are entitled to under`
 `law, ordinance or collective agreement plus a supplement as normally agreed`
@@ -32,7 +34,7 @@ The most relevant part is in article 12
 	In German they are the so-called **Besonders Hochqualifizierte Arbeitskräfte**. They have much more stringent [requirements](https://www.migration.gv.at/de/formen-der-zuwanderung/dauerhafte-zuwanderung/besonders-hochqualifizierte/) mainly concerning their academic qualifications, age and having previously employed with a high salary. The opportunity to place these highly qualified workers exist but it is likely that we need to first establish a track record of successfully placing the first type of workers first. 
 
 
-## Indonesia
+## Indonesias
 
 Due to the many scams and exploitations both by Indonesian employment agencies themselves as well as employers in foreign countries, Indonesia has put forth a deluge of regulations in order to protect its workers. While noble in its intention, Indonesian workers in Europe are hardly ever exploited due to the excellent protection provided by the local governments there both to citizens and non citizens alike. Therefore agencies and workers often get lost in this morass of rules and regulations without the workers deriving much benefit from them.
 

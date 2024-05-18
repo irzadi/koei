@@ -1,0 +1,25 @@
+{
+  "id": "Austria/Documents Required to Apply for a Visa",
+  "title": "Documents Required to Apply for a Visa",
+  "description": "Required documents",
+  "source": "@site/docs/Austria/06 - Documents Required to Apply for a Visa.md",
+  "sourceDirName": "Austria",
+  "slug": "/Austria/Documents Required to Apply for a Visa",
+  "permalink": "/docs/Austria/Documents Required to Apply for a Visa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Austria/06 - Documents Required to Apply for a Visa.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Points Calculator",
+    "permalink": "/docs/Austria/Points Calculator"
+  },
+  "next": {
+    "title": "Helpful Websites and Links",
+    "permalink": "/docs/Austria/Helpful Websites and Links"
+  }
+}

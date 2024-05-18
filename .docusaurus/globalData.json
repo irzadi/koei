@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Austria/Background",
+          "docs": [
+            {
+              "id": "Austria/Austrian Agencies",
+              "path": "/docs/Austria/Austrian Agencies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Austria/Background",
+              "path": "/docs/Austria/Background",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Austria/Documents Required",
+              "path": "/docs/Austria/Documents Required",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Austria/Helpful Websites and Links",
+              "path": "/docs/Austria/Helpful Websites and Links",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Austria/Legal Foundation",
+              "path": "/docs/Austria/Legal Foundation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Austria/List of Mangelberufe",
+              "path": "/docs/Austria/List of Mangelberufe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Austria/Migrating to Austria",
+              "path": "/docs/Austria/Migrating to Austria",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Austria/Points Calculator",
+              "path": "/docs/Austria/Points Calculator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Austria/Background",
+                "label": "Austria/Background"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
