@@ -2,7 +2,7 @@ What is considered to be **Mangelberufe** i.e. "professions in which shortage of
 
 The following are the professions for which getting a job and work visa in Austria would be much easier.
 
-::: note
+:::note
 
 Some these professions have links to youtube videos explaining in more detail as to what the job actually entails.  
 We should identify which jobs we can actually recruit workers from Indonesia for and **translate** the appropriate videos.

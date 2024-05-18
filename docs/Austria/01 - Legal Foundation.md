@@ -2,7 +2,7 @@
 
 On October 1st 2022 [several new laws regulating international skilled workers in Austria](https://www.workinaustria.com/blog/gesetzesreform-zur-rot-weiss-rot-karte-co/) came into effect. These laws make it much easier for Austrian firms to recruit workers from non-EU countries. From the seven or so different type of migrant workers regulated in *Ausländerbeschäftigungsgesetzes* (AusIBG) there are two type of migrant workers that are of interest to Tiaramas. 
 
-::: note
+:::note
 
 Link to the [actual bill concerning foreign workers](https://www.jusline.at/gesetz/auslbg/gesamt).
 
