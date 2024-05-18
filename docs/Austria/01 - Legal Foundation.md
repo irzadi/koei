@@ -1,15 +1,34 @@
 ## Austria
 
-On October 1st 2022 [several new laws regulating international skilled workers](https://www.workinaustria.com/blog/gesetzesreform-zur-rot-weiss-rot-karte-co/) came into effect. These laws make it much easier for Austrian firms to recruit workers from non-EU countries. From the several different type of migrant workers regulated in *Ausländerbeschäftigungsgesetzes* (AusIBG) there are two type of migrant workers that are of interest to Tiaramas as the two are the exactly the kind of workers that Tiaramas can seek out, train and assist in finding an employment for in Austria:
+On October 1st 2022 [several new laws regulating international skilled workers in Austria](https://www.workinaustria.com/blog/gesetzesreform-zur-rot-weiss-rot-karte-co/) came into effect. These laws make it much easier for Austrian firms to recruit workers from non-EU countries. From the seven or so different type of migrant workers regulated in *Ausländerbeschäftigungsgesetzes* (AusIBG) there are two type of migrant workers that are of interest to Tiaramas. 
+
+::: note
+
+Link to the [actual bill concerning foreign workers](https://www.jusline.at/gesetz/auslbg/gesamt).
+
+English translation can be found [here](https://www.migration.gv.at/fileadmin/downloads/gesetzestexte/AuslBG_englisch_1_10_2017.pdf)
+The most relevant part is in article 12
+
+:::
 
 ### Skilled Workers in Sectors struggling with worker shortage
-	
+
 	In German language they are the so called **Fachkräfte in Mangelberufen**. Sectors that chronically short of workers are usually the 3D sectors: dirty, difficult or dangerous jobs. 
 	
 	In addition to being skilled worker in *Mangelberufen* the prospective migrant workers must  fulfill [additional criterias set by the Austrian governments](/Austria/05%20-%20Points%20Calculator.md) mostly related to Language and Age. Workers fulfilling those criterias and are being offered a job by an Austrian company are eligible to obtain a work visa.This visa is valid for up to two years and may later be extended or converted to more permanent form of permit 
-	
+
+`AusIBG §12a Skilled workers remedying skills shortages in specific occupations.`
+
+`Foreign nationals shall be admitted for employment as skilled workers in jobs suffering from labour shortages as defined in the ordinance for skilled workers (Fachkräfteverordnung, §13), if they`
+
+1. `hold the relevant occupational training credentials;`
+2. `score the necessary minimum points for the criteria listed in Annex B;`
+3. `are paid for the intended job the minimum pay rate they are entitled to under`
+`law, ordinance or collective agreement plus a supplement as normally agreed`
+`at the enterprise in question,`
+
 ### Highly qualified workers
-	
+
 	In German they are the so-called **Besonders Hochqualifizierte Arbeitskräfte**. They have much more stringent [requirements](https://www.migration.gv.at/de/formen-der-zuwanderung/dauerhafte-zuwanderung/besonders-hochqualifizierte/) mainly concerning their academic qualifications, age and having previously employed with a high salary. The opportunity to place these highly qualified workers exist but it is likely that we need to first establish a track record of successfully placing the first type of workers first. 
 
 
