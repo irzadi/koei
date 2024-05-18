@@ -1,6 +1,6 @@
 ### Required documents
 
-In any case, you will have to submit the following **documents** in order to receive a Red-White-Red – Card for Skilled Workers in Shortage Occupations:
+The following **documents** are required in order to receive a Red-White-Red – Card  (aka *Rot-Weiss-Rot Karte*) for Skilled Workers in Shortage Occupations:
 
 - [Application form](https://api.workinaustria.com/fileadmin/user_upload/MediaLibrary_ABAWORKINAUSTRIA/Downloads/AufenthaltBeschaeftigung/Application_form_2023_EN.pdf)
 - Passport
@@ -25,7 +25,7 @@ In any case, you will have to submit the following **documents** in order to rec
 - The **validity** of worker's Red-White-Red – Card depends on the validity of their offer/work contract as well as on their passport's validity. If both are  valid for at least 2 years, your Red-White-Red – Card is also valid for a period of 2 years.
 - Workers will have to present one or more **Police Clearance Certificates** depending upon the country in which you live. Here you can check which [Police Clearance Certificates](https://old.workinaustria.com/en/living-working/visa-and-document-verification#c2342) you will have to obtain.
 
-​	In Indonesia this will be the SKCK that has to be made at the province capital
+​	In Indonesia this will be the **SKCK** issued at the province capital
 
 - Personal documents must be **specially legalised** so that these documents are officially recognised. This depends upon the  country in which the documents were issued. Here you can check which [type of legalisation](https://old.workinaustria.com/en/living-working/visa-and-document-verification#c2342) is necessary.
 - If personal documents were not issued in German or English, they must be **translated** by a court-certified translator (“gerichtlich beeidete Übersetzerin/ beeideter Übersetzer”). 

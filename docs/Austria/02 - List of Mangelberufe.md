@@ -1,127 +1,200 @@
-What is considered to be Mangelberufe i.e. "Profession in which shortage of labor exists" certainly change according to the situation in the labor market.
+What is considered to be **Mangelberufe** i.e. "professions in which shortage of labor exists" certainly change according to the situation in the labor market.
 
 The following are the professions for which getting a job and work visa in Austria would be much easier.
 
-## The following are professions considered to be Mangelberufe in all of Austria 
+::: note
 
-- Pemasang genting - Dachdecker/innen
-- [Machinist](https://en.wikipedia.org/wiki/Machinist)  - Fräser/innen
-- Pekerja bangunan spesialisasi metal sheet - [Spengler/innen](https://www.youtube.com/watch?v=3EZ3PtHMIhk)
+Some these professions have links to youtube videos explaining in more detail as to what the job actually entails.  
+We should identify which jobs we can actually recruit workers from Indonesia for and **translate** the appropriate videos.
+
+:::
+
+## The following are professions considered to be Mangelberufe in ALL of Austria 
+
+- Pemasang genting - [Dachdecker/innen](https://www.youtube.com/watch?v=-oc9iMe3UIY&ab_channel=BayerischerRundfunk)
+
+- [Machinist](https://en.wikipedia.org/wiki/Machinist)  - [Fräser/innen](https://www.youtube.com/watch?v=kPxnse9lZEY&ab_channel=BayerischerRundfunk), Zerspannungmechaniker
+
+- Pekerja logam lembaran - [Spengler/innen](https://www.youtube.com/watch?v=3EZ3PtHMIhk)
+
 - Tukang las 1 - [Schweißer/innen](https://www.youtube.com/watch?v=0F2WP69b3FM), Schneidbrenner/innen
+
 - Tukang las 2 - [Schlosser/innen](https://www.youtube.com/watch?v=Tf2aWqTU14I)
+
  - Tukang cat -  [Lackierer/innen](https://www.youtube.com/watch?v=huPExIuZXAs)
+
  - Tukang beton - [Betonbauer/innen](https://www.youtube.com/watch?v=wOAmvqrslsU)
+
  - Tukang kayu - [Holzmaschinenarbeiter/innen](https://www.youtube.com/watch?v=O8GEAMbb_HU) 
+
  - Pemasang lantai - [Bodenleger/innen](https://www.youtube.com/watch?v=xh2B37bglCw)
+
  - Tukang bangunan 1 - [Maurer/innen](https://www.youtube.com/watch?v=KNC2A1oBrM4)
+
  - Tukang bangunan 2 - [Zimmerer/innen](https://www.youtube.com/watch?v=NgeJOfFrkQM)
+
  - Tukang semen - [Pflasterer/innen](https://www.youtube.com/watch?v=9-x_QzicXWM)
+
  - Tukang instalasi listrik - [Elektroinstallateur(e) innen, -monteur(e)innen](https://www.youtube.com/watch?v=3uKzXPaA4qk)
- - Admin bidang penghitung gaji -  Lohn-, Gehaltsverrechner/innen
+
  - Tukang pipa - [Rohrinstallateur(e) innen, -monteur(e)innen](https://www.youtube.com/watch?v=6Bhgx8BolkA)
- - Tukang mesin mobil - Kraftfahrzeugmechaniker
- - Akuntan - Buchhalter/innen
+
+ - Tukang mesin mobil - [Kraftfahrzeugmechaniker](https://www.youtube.com/watch?v=1hiJvZ5pUok&ab_channel=MachDeinDing%21)
+
+ - Tukang cat - [Maler/innen, Anstreicher/innen](https://www.youtube.com/watch?v=m_ILAfKxWHw&ab_channel=BayerischerRundfunk)
+
+ - Tukang listrik - [Elektroberufe](https://www.youtube.com/watch?v=glJV60Y9z4U&ab_channel=PASCAL)
+
+ - Tukang daging / jagal / pemotong hewan - [Fleischer/innen](https://www.youtube.com/watch?v=nEi5OTyH9vs&ab_channel=BayerischerRundfunk)
+
+ - Tukang pijat - Masseur(e) innen
+
+ - Teknisi gigi buatan - Zahnprothesenmacher/innen
+
+ - pembuat roti - Bäckerinnen
+
+ - teknisi traktor / mesin berat pertanian - Landmaschinenbauer/innen
+
+- teknisi alat medis - Medizinisch-technische Fachkräfte
+
+- Akuntan - Buchhalter/innen
+
+ - Admin bidang penghitung gaji -  Lohn-, Gehaltsverrechner/innen
+
  - Koki Restoran - Gaststättenköch(e) innen
- - Tukang cat - Maler/innen, Anstreicher/innen
+
  - Bidan - Hebammen
+
  - Pengasuh anak - Erzieher/innen
+
  - Pengrajin / tukang mebel dan furnitur - Möbeltischler/innen
+
  - Perawat tanpa ijazah dan semacamnya - Nicht diplomierte Krankenpfleger/innen und verwandte Berufe
- - Tukang listrik - Elektroberufe
+
  - Pekerja sosial - Fürsorger/innen, Sozialarbeiter/innen
+
  - Dokter umum dan spesialis - Ärzt(e) innen
+
+ - Teknisi optik - Augenoptiker/innen
+
+ - Semua profesi di produksi / pengerjaan besi atau metal lain dengan menggunakan mesin - Berufe der maschinellen Metallbearbeitung
+
+ - Make up Artist - Kosmetiker/innen, Hand-, Fußpfleger/innen
+
+- Ahli Statistik - Sozial-, Wirtschaftswissenschafter/innen, wissenschaftliche Statistiker/innen
+
+- Teknisi / Tukang kaca - [Glaser/innen](https://www.youtube.com/watch?v=gqw7KOn0S8A&ab_channel=37Grad)
+
+- Teknisi dan tukang pembuat rel kereta api - [Gleisbauer/innen]( https://www.youtube.com/watch?v=QRu_HuOpHmQ&pp=ygUVZ2xlaXNiYXVlciBhdXNiaWxkdW5n)
+
+- Tukang potong rambut - Friseur(e) innen, Maskenbildner/innen
+
+- Penggambar teknis - Technische Zeichner/innen
+
+- Pemahat / pengrajin batu - [Steinmetz(en) innen, Steinbildhauer/innen](https://www.youtube.com/watch?v=d19zkaX_fns&ab_channel=azubiTV.de)
+
+- Pengemudi kereta api - Zugführer/innen, Zugschaffner/innen
+
+- teknisi karoseri / body mobil - Karosserie-, Kühlerspengler/innen
+
+- Tukang semen - [Platten-, Fliesenleger/innen](https://www.youtube.com/watch?v=zrq6GhVp5tQ&ab_channel=MachDeinDing%21)
+
+  
+
+  Insinyur dan atau teknisi berpengalaman di bidang bidang berikut
+
+  - electrical power engineering
+  - data science
+  - teknik mesin
+  - teknis gas
+  - sarjana kesehatan atau keperawatan
+  - hampir semua yang di bidang MIPA
+  - teknik bangunan / arsitek
+  - pemetaan dan survey
+
+
+
+
+- Diplomingenieur(e) innen soweit nicht anderweitig eingeordnet
+
+  Disini sebetulnya juga tertulis semua yang punya sarjana S1. Tapi tentunya harus bisa mendapatkan tawaran kerja dari perusahaan di Austria.
+
+
+
+
 
 The following has not yet been translated. Work in progress!
 
-- Engineer in electrical power engineering
-- Techniker/innen mit höherer Ausbildung (Ing.) für Starkstromtechnik
-- Techniker/innen für Starkstromtechnik
-- Landmaschinenbauer/innen
-- Techniker/innen mit höherer Ausbildung (Ing.) für Maschinenbau
-- Techniker/innen mit höherer Ausbildung (Ing.) für Datenverarbeitung
-- Diplomingenieur(e) innen für Schwachstrom- und Nachrichtentechnik
-- Kalkulant(en) innen
-- Techniker/innen für Feuerungs- und Gastechnik
-- Diplomierte/r Gesundheits- und Krankenpfleger/innen
-- Diplomingenieur(e) innen für Maschinenbau
-- Diplomingenieur(e) innen für Datenverarbeitung
 - Techniker/innen für Maschinenbau
-- Techniker/innen mit höherer Ausbildung soweit nicht anderweitig eingeordnet
-- Schweißer/innen, Schneidbrenner/innen
-- Augenoptiker/innen
-- Diplomingenieur(e) innen soweit nicht anderweitig eingeordnet
-- Triebfahrzeugführer/innen]-
-- Kraftfahrzeugmechaniker/innen
-- Techniker/innen für Schwachstrom- und Nachrichtentechnik
-- Techniker/innen für Wirtschaftswesen
-- Medizinisch-technische Fachkräfte
-- Wirtschaftstreuhänder/innen
-- Techniker/innen mit höherer Ausbildung (Ing.) für Bauwesen
-- Techniker/innen soweit nicht anderweitig eingeordnet
-- Bautischler/innen
-- Bauspengler/innen
-- Bau- und Möbeltischler/innen
-- Maschinenschlosser/innen
-- Karosserie-, Kühlerspengler/innen
-- Huf- und Wagenschmied(e)innen
-- Techniker/innen mit höherer Ausbildung (Ing.) für Wirtschaftswesen
-- Händler/innen und Verkäufer/innen von Eisen- und Metallwaren, Maschinen, Haushalts- und Küchengeräten
-- Grobmechaniker/innen
-- Elektromechaniker/innen
-- Diplomingenieur(e) innen für Wirtschaftswesen
-- Bau-, Blech-, Konstruktionsschlosser/innen
-- 
-- Techniker/innen mit höherer Ausbildung für Schwachstrom- und Nachrichtentechnik
-- Fleischer/innen
-- Kunststoffverarbeiter/innen
-- Physikalisch-technische Sonderberufe
--- Techniker/innen für Datenverarbeitung
-- Werkzeug-, Schnitt- und Stanzenmacher/innen
-- Platten-, Fliesenleger/innen
-- Hafner/innen, Töpfer/innen, Ofensetzer/innen
-- Einkäufer/innen
-- Warenhausverkäufer/innen
-- Tiefbauer/innen
-- Rauchfangkehrer/innen
-- Techniker/innen für Bauwesen
-- Automaten-, Maschineneinrichter/innen, -einsteller/innen
-- Händler/innen und Verkäufer/innen von Parfümerien, Wasch-, Haushaltsartikeln, Farben, Lacken
-- Naturblumenbinder/innen- Zuckerbäcker/innen
-- Bahnberufe anderer Art
-- Wirtschafter/innen, andere Hotel-, Gaststättenfachleute, Heimverwalter/innen
-- Speditionsfachleute
-- Zahnprothesenmacher/innen
-- Fakturist(en) innen, Abrechner/innen
-- Diplomingenieur(e) innen für technische Physik, Physiker/innen
-- Techniker/innen für Vermessungswesen
-- 
-- Berufe der maschinellen Metallbearbeitung
-- Kaffeemittel-, andere Nahrungsmittelhersteller/innen
-- Diplomingenieur(e) innen für Bauwesen
-- Bäcker/innen
-- Erzieher/innen
-- Metallwarenmacher/innen, -montierer/innen
-- Sozial-, Wirtschaftswissenschafter/innen, wissenschaftliche Statistiker/innen
-- Glaser/innen
-- Gleisbauer/innen
-- Friseur(e) innen, Maskenbildner/innen
-- Technische Zeichner/innen
-- Kosmetiker/innen, Hand-, Fußpfleger/innen
-- Versicherungsvermittler/innen, -vertreter/innen
-- Diätolog(en) innen
-- Steinmetz(en) innen, Steinbildhauer/innen
-- Zugführer/innen, Zugschaffner/innen
-- Masseur(e) innen
-- Magazin-, Lagerfachleute, Expedient(en)innen
-- Wirtschaftsverwalter/innen
-- Diplomingenieur(e) innen für technische Chemie, Chemiker/innen
-- 
-- Autobuslenker/innen
-- Schulbusfahrer/innen
-- Berufskraftfahrer/innen - Personenbeförderung
-- Straßenbahnwagenführer/innen
 
-### Die Liste der **regionalen Mangelberufe** umfasst im Jahr 2024 folgende Berufe
+- Techniker/innen mit höherer Ausbildung soweit nicht anderweitig eingeordnet
+
+- Schweißer/innen, Schneidbrenner/innen
+
+- Techniker/innen für Wirtschaftswesen
+
+- Wirtschaftstreuhänder/innen
+
+- Techniker/innen mit höherer Ausbildung (Ing.) für Bauwesen
+
+- Techniker/innen soweit nicht anderweitig eingeordnet
+
+- Bautischler/innen
+
+- Bauspengler/innen
+
+- Bau- und Möbeltischler/innen
+
+- Maschinenschlosser/innen
+
+- Huf- und Wagenschmied(e)innen
+
+- Grobmechaniker/innen
+
+- Elektromechaniker/innen
+
+- Bau-, Blech-, Konstruktionsschlosser/innen
+
+- Techniker/innen mit höherer Ausbildung für Schwachstrom- und Nachrichtentechnik
+
+- Kunststoffverarbeiter/innen
+
+- Physikalisch-technische Sonderberufe
+  -- Techniker/innen für Datenverarbeitung
+
+- Werkzeug-, Schnitt- und Stanzenmacher/innen
+
+- Hafner/innen, Töpfer/innen, Ofensetzer/innen
+
+- Einkäufer/innen
+
+- Warenhausverkäufer/innen
+
+- Tiefbauer/innen
+
+- Rauchfangkehrer/innen
+
+- Techniker/innen für Bauwesen
+
+- Automaten-, Maschineneinrichter/innen, -einsteller/innen
+
+- Händler/innen und Verkäufer/innen von Parfümerien, Wasch-, Haushaltsartikeln, Farben, Lacken
+
+- Naturblumenbinder/innen- Zuckerbäcker/innen
+
+- Bahnberufe anderer Art
+
+- Wirtschafter/innen, andere Hotel-, Gaststättenfachleute, Heimverwalter/innen
+
+- Speditionsfachleut
+
+- Fakturist(en) innen, Abrechner/innen
+
+- Kaffeemittel-, andere Nahrungsmittelhersteller/innen
+
+  
+
+Die Liste der **regionalen Mangelberufe** umfasst im Jahr 2024 folgende Berufe
 
 #### Niederösterreich:
 
