@@ -2,7 +2,7 @@
 
 # Signing of MoU with an Austrian recruitment agency
 
-According to Indonesian law, Tiaramas cannot directly help Austrian companies to hire Indonesian workers. Recruitment has to be done byTiaramas and later the workers are to be introduced and handled by  Austrian recruitment agency who will facilitate their transfers to the intended company in Austria. 
+According to Indonesian law, Tiaramas can directly help Austrian companies to hire Indonesian workers, subsequently via Austrian Recruitment Agencies. Recruitment has to be done by Tiaramas and later the workers are to be introduced and handled directly by Austrian Companies or through recruitment agency who will facilitate their transfers to the intended company in Austria.
 
 Therefore the very first step is to find a reliable and reputable partner with whom Tiaramas can form a long term strategic partnership.
 
