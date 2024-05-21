@@ -64,15 +64,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd79'),
+    component: ComponentCreator('/docs', '45c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c99'),
+        component: ComponentCreator('/docs', '71a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '756'),
+            component: ComponentCreator('/docs', '365'),
             routes: [
               {
                 path: '/docs/Austria/Austrian Agencies',
@@ -119,6 +119,12 @@ export default [
               {
                 path: '/docs/Austria/Points Calculator',
                 component: ComponentCreator('/docs/Austria/Points Calculator', '141'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Austria/Workflow',
+                component: ComponentCreator('/docs/Austria/Workflow', '9a4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

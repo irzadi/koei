@@ -34,6 +34,7 @@ export default {
   "c4f5d8e4": [() => import(/* webpackChunkName: "c4f5d8e4" */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
   "ccc49370": [() => import(/* webpackChunkName: "ccc49370" */ "@theme/BlogPostPage"), "@theme/BlogPostPage", require.resolveWeak("@theme/BlogPostPage")],
   "d9f32620": [() => import(/* webpackChunkName: "d9f32620" */ "@site/blog/2021-08-26-welcome/index.md"), "@site/blog/2021-08-26-welcome/index.md", require.resolveWeak("@site/blog/2021-08-26-welcome/index.md")],
+  "e18b73de": [() => import(/* webpackChunkName: "e18b73de" */ "@site/docs/Austria/07 - Workflow.md"), "@site/docs/Austria/07 - Workflow.md", require.resolveWeak("@site/docs/Austria/07 - Workflow.md")],
   "e273c56f": [() => import(/* webpackChunkName: "e273c56f" */ "@site/blog/2019-05-28-first-blog-post.md"), "@site/blog/2019-05-28-first-blog-post.md", require.resolveWeak("@site/blog/2019-05-28-first-blog-post.md")],
   "e43af8a0": [() => import(/* webpackChunkName: "e43af8a0" */ "@site/docs/Austria/04 - Austrian Agencies.md"), "@site/docs/Austria/04 - Austrian Agencies.md", require.resolveWeak("@site/docs/Austria/04 - Austrian Agencies.md")],
   "e544776d": [() => import(/* webpackChunkName: "e544776d" */ "@site/docs/Austria/03 - Migrating to Austria.md"), "@site/docs/Austria/03 - Migrating to Austria.md", require.resolveWeak("@site/docs/Austria/03 - Migrating to Austria.md")],

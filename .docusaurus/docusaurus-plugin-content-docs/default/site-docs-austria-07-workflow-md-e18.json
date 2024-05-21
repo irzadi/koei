@@ -1,0 +1,25 @@
+{
+  "id": "Austria/Workflow",
+  "title": "Workflow",
+  "description": "According to Indonesian law, Tiaramas cannot directly help Austrian companies to hire Indonesian workers. Recruitment has to be done byTiaramas and later the workers are to be introduced and handled by  Austrian recruitment agency who will facilitate their transfers to the intended company in Austria.",
+  "source": "@site/docs/Austria/07 - Workflow.md",
+  "sourceDirName": "Austria",
+  "slug": "/Austria/Workflow",
+  "permalink": "/docs/Austria/Workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Austria/07 - Workflow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "To Apply for Indonesian Passport",
+    "permalink": "/docs/Austria/Documents Required"
+  },
+  "next": {
+    "title": "Helpful Websites and Links",
+    "permalink": "/docs/Austria/Helpful Websites and Links"
+  }
+}
