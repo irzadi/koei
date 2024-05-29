@@ -17,12 +17,12 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-  staticDirectories: ['public', 'static'],
+  staticDirectories: ['static'],
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'irzadi@gmail.com', // Usually your GitHub org/user name.
+  projectName: 'tiaramas', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -34,6 +34,12 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  plugins: [
+    'docusaurus-plugin-image-zoom', // can also just be 'image-zoom'
+    // ...other plugins
+  ],
+  
 
   presets: [
     [
@@ -87,6 +93,20 @@ const config = {
           },
         ],
       },
+
+      zoom: {
+        selector: '.markdown > img',
+        background: {
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)'
+        },
+        config: {
+          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+        }    
+      },
+    
+
+
       footer: {
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Irzadi Siregar   irzadi@gmail.com`,

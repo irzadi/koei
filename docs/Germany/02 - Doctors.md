@@ -22,7 +22,7 @@ Once the applicant passes both exams he or she will be considered as fully recog
 
 In the next images we will try to explain each process in greater detail.
 
-![Approbation process Detail 01](/img/Approbation-Process-Detail-01.png)
+<img src="/img/Approbation-Process-Detail-01.png" alt="Details of approbation process 1"/>
 
+<img src="/img/Approbation-Process-Detail-02.png" alt="Details of approbation process 2"/>
 
-![Approbation process Detail 02](/img/Approbation-Process-Detail-02.png)

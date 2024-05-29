@@ -10,11 +10,10 @@ export default {
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
   "staticDirectories": [
-    "public",
     "static"
   ],
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "irzadi@gmail.com",
+  "projectName": "tiaramas",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -25,6 +24,9 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "plugins": [
+    "docusaurus-plugin-image-zoom"
+  ],
   "presets": [
     [
       "classic",
@@ -70,6 +72,14 @@ export default {
         }
       ],
       "hideOnScroll": false
+    },
+    "zoom": {
+      "selector": ".markdown > img",
+      "background": {
+        "light": "rgb(255, 255, 255)",
+        "dark": "rgb(50, 50, 50)"
+      },
+      "config": {}
     },
     "footer": {
       "style": "dark",
@@ -302,7 +312,6 @@ export default {
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],
