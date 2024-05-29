@@ -10,7 +10,7 @@ Should Tiaramas be able to find the young, motivated, intelligent, diligent and 
 
 # Austria 
 
-![Map of Austria](/img/austria-map.jpg)
 <img src="/img/austria-map.jpg" alt="Map of Austria"/>
+
 <img src="/img/Indonesia Austria comparison.png" alt="approbation process overview" height="837" width="397" />
 
