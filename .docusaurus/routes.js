@@ -64,15 +64,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '45c'),
+    component: ComponentCreator('/docs', 'aa9'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '71a'),
+        component: ComponentCreator('/docs', '216'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '365'),
+            component: ComponentCreator('/docs', '388'),
             routes: [
               {
                 path: '/docs/Austria/Austrian Agencies',
@@ -125,6 +125,12 @@ export default [
               {
                 path: '/docs/Austria/Workflow',
                 component: ComponentCreator('/docs/Austria/Workflow', '9a4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Germany/Doctors',
+                component: ComponentCreator('/docs/Germany/Doctors', '08c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
