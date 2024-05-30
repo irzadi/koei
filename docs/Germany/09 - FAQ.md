@@ -45,9 +45,9 @@ In general it costs between 1000-2000 Euro. However in most cases, you can barga
 
 - [Approbation - Approbationsordnung für Ärzte (ÄApprO)](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html)
 
+## Which agency or organization exactly is responsible for Approbation?
 
-
-## Which tate department exactly is responsible for Approbation?
+The reason why it is hard to even say is because each state has different type of agency / organization responsible for approbation. Not only that, some states even have *several* different organization for the same task. Here is the complete list:
 
 - Baden-Württemberg - Landesprüfungsamt für Medizin und Pharmazie
 - Bayern - Regierung von Oberbayern (Oberbayern/EU/Drittstaaten) + Regierung von Unterfranken
@@ -65,3 +65,10 @@ In general it costs between 1000-2000 Euro. However in most cases, you can barga
 - Sachsen-Anhalt - Landesverwaltungsamt Sachsen-Anhalt
 - Schleswig-Holstein - Landesamt für soziale Dienste
 - Thüringen - Thüringer Landesverwaltungsamt
+
+## Is it possible to start my specialist internship before I get my Approbation?
+
+Unfortunately, in most cases, no.
+
+The local medical association most likely will only acknowledge and approve the specialist residency after Approbation. That said, this is something that can be discussed personally with them. Even without recognition, the hospital or attending specialist might approve a de facto residency.
+

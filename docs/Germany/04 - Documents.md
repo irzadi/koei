@@ -9,24 +9,19 @@ The complete list of documents needed will be provided by the state's medical as
 * Additional medical certifications
 * Certificates of Employment 
 * Info about your employment in Germany
-
-## AFTER the Approbation has started
-
-These documents may be given to the state's medical association at a later date. Usually once you have started working in Germany.
-
+* German Language Certificate B2
 * SKCK
 * Medical certificate (must not be older than 3 months)
-* To *start* the Approbation process -> German Language Certificate B2
-* 
 
-Die zuständige Stelle informiert Sie darüber, welche Unterlagen Sie einreichen müssen. Wichtige Unterlagen sind generell:
+# Visa
 
-    Identitätsnachweis (z. B. Reisepass oder Personalausweis)
-    Eheurkunde (wenn sich Ihr Name durch Heirat geändert hat)
-    Lebenslauf
-    Nachweise Ihrer Berufsqualifikation (z. B. Zeugnisse, Berufsurkunde)
-    Nachweise über Inhalt und Dauer Ihrer Ausbildung (z. B. Diploma Supplement, Transcript of Records)
-    Nachweis Ihrer Berufserfahrung in Ihrem Beruf (z. B. Arbeitszeugnisse)
-    Auskunft, ob Sie in Deutschland bereits einen Antrag auf Erteilung der Approbation gestellt haben
-    Sie müssen nachweisen: Sie dürfen in Ihrem Ausbildungsland in dem Beruf arbeiten.
-    Sie wohnen oder arbeiten noch nicht in der EU, dem EWR oder der Schweiz? Dann müssen Sie nachweisen: Sie wollen in Deutschland in dem Beruf arbeiten. Nachweise können sein: Bewerbungen auf einen Arbeitsplatz, Nachweis über Ihren Antrag auf ein Einreisevisum zur Erwerbstätigkeit oder persönliche Erklärung
+The complete list can be seen [here](https://jakarta.diplo.de/id-de/service/06-visa-und-einreise-seite/-/2582402). 
+
+* biometric Photo
+* Passport
+* A statement from your employer that you will be emploed by them and that your yearly salary is over  45.000 € 
+* Diploma and other certifications
+* Work permit
+* Proof of health insurance 
+
+Source : [Merkblatt Nationales Visum Blaue Karte EU](https://jakarta.diplo.de/blob/2465236/8d3c6a9eed03b4935ef14f481500c5d5/merkblatt-blaue-karte-eu--18b-ii-data.pdf)
