@@ -1,0 +1,25 @@
+{
+  "id": "Germany/FAQ",
+  "title": "FAQ",
+  "description": "Why is my medical school curriculum needed?",
+  "source": "@site/docs/Germany/09 - FAQ.md",
+  "sourceDirName": "Germany",
+  "slug": "/Germany/FAQ",
+  "permalink": "/docs/Germany/FAQ",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Germany/09 - FAQ.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Approbation",
+    "permalink": "/docs/Germany/Documents"
+  },
+  "next": {
+    "title": "intro",
+    "permalink": "/docs/intro"
+  }
+}

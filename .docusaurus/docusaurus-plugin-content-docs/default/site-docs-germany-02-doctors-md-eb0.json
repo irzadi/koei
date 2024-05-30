@@ -1,7 +1,7 @@
 {
   "id": "Germany/Doctors",
-  "title": "Indonesian Doctors in Germany",
-  "description": "More than 11% of all registered doctors in Germany come from countries outside the EU. More than 6000 Syrian doctors now work in Germany, many of whom come after the Syrian civil war. In recent years the numbers of foreign doctors are increasing rapidly. More than 4000 additional foreign doctors have been registered in 2023 alone.",
+  "title": "Chronic shortage of doctors in Germany",
+  "description": "Statistics of foreign doctors",
   "source": "@site/docs/Germany/02 - Doctors.md",
   "sourceDirName": "Germany",
   "slug": "/Germany/Doctors",
@@ -19,7 +19,7 @@
     "permalink": "/docs/Austria/Helpful Websites and Links"
   },
   "next": {
-    "title": "intro",
-    "permalink": "/docs/intro"
+    "title": "Application Process",
+    "permalink": "/docs/Germany/Application Process"
   }
 }

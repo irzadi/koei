@@ -1,0 +1,25 @@
+{
+  "id": "Germany/Documents",
+  "title": "Approbation",
+  "description": "The complete list of documents needed will be provided by the state's medical association where you will be employed. However in most cases these are the necessary documents:",
+  "source": "@site/docs/Germany/04 - Documents.md",
+  "sourceDirName": "Germany",
+  "slug": "/Germany/Documents",
+  "permalink": "/docs/Germany/Documents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Germany/04 - Documents.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Application Process",
+    "permalink": "/docs/Germany/Application Process"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/docs/Germany/FAQ"
+  }
+}

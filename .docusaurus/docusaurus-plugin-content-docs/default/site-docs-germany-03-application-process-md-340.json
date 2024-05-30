@@ -1,0 +1,25 @@
+{
+  "id": "Germany/Application Process",
+  "title": "Application Process",
+  "description": "Steps towards Approbation",
+  "source": "@site/docs/Germany/03 - Application Process.md",
+  "sourceDirName": "Germany",
+  "slug": "/Germany/Application Process",
+  "permalink": "/docs/Germany/Application Process",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Germany/03 - Application Process.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chronic shortage of doctors in Germany",
+    "permalink": "/docs/Germany/Doctors"
+  },
+  "next": {
+    "title": "Approbation",
+    "permalink": "/docs/Germany/Documents"
+  }
+}

@@ -64,15 +64,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'aa9'),
+    component: ComponentCreator('/docs', '619'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '216'),
+        component: ComponentCreator('/docs', 'ccd'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '388'),
+            component: ComponentCreator('/docs', 'be8'),
             routes: [
               {
                 path: '/docs/Austria/Austrian Agencies',
@@ -129,8 +129,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/Germany/Application Process',
+                component: ComponentCreator('/docs/Germany/Application Process', '0d2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/Germany/Doctors',
                 component: ComponentCreator('/docs/Germany/Doctors', '08c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Germany/Documents',
+                component: ComponentCreator('/docs/Germany/Documents', '3dd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Germany/FAQ',
+                component: ComponentCreator('/docs/Germany/FAQ', '724'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

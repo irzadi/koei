@@ -7,7 +7,7 @@ export default {
   "title": "Tiaramas Knowledge Base",
   "tagline": "Connect People, Realize Dreams",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://cypernkoei.netlify.app",
   "baseUrl": "/",
   "staticDirectories": [
     "static"

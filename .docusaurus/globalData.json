@@ -56,8 +56,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Germany/Application Process",
+              "path": "/docs/Germany/Application Process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Germany/Doctors",
               "path": "/docs/Germany/Doctors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Germany/Documents",
+              "path": "/docs/Germany/Documents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Germany/FAQ",
+              "path": "/docs/Germany/FAQ",
               "sidebar": "tutorialSidebar"
             },
             {
