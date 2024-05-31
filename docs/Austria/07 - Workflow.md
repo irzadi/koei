@@ -6,7 +6,7 @@ According to Indonesian law, Tiaramas can directly help Austrian companies to hi
 
 Therefore the very first step is to find a reliable and reputable partner with whom Tiaramas can form a long term strategic partnership.
 
-Should be parties are amenable to a partnership, an MoU will be drafted and signed. [An example of such MoU can be found here](../resources/Tiaramas MoU draft.docx). The signed MoU will then need to be examined and approved to by the Indonesian embassy where workers are intended to be placed. 
+Should be parties are amenable to a partnership, an MoU will be drafted and signed. [An example of such MoU can be found here](/img/Tiaramas MoU draft.docx). The signed MoU will then need to be examined and approved to by the Indonesian embassy where workers are intended to be placed. 
 
 # Austrian partner apply for approval
 

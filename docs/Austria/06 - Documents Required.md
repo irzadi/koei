@@ -1,8 +1,12 @@
 # To Apply for Indonesian Passport
 
+Documents required for workers to be able to apply for passport are as follows:
+
 - KTP
 - Kartu Keluarga
 - Akte Kelahiran
+
+Some immigration offices are much more lenient in granting passport while others are much tougher. Immigration offices in major tourist destinations like Bali are usually easier. If all else fails, we can leverage our connection at the Cirebon Immigration Office where we can grease the hands of the immigration officers.
 
 Check [this step-by-step guide](https://news.detik.com/berita/d-6558813/cara-membuat-paspor-baru-online-beserta-syarat-dan-biayanya) on how to apply for a passport. 
 
